@@ -4,7 +4,7 @@
 This part of the code exposes functions to interface with the eink display
 """
 
-import display.epd7in5bc as eink
+import display.epd_7_in_5_v3_colour as eink
 from PIL import Image
 import logging
 
